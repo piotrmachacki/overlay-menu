@@ -1,0 +1,30 @@
+{
+  "name": "overlay-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Piotr Machacki",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
+    "gulp-wait": "0.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "hamburgers": "^0.9.3",
+    "jquery": "^3.3.1",
+    "reset-css": "^4.0.1"
+  }
+}
